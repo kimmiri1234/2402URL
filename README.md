@@ -4,4 +4,4 @@
 
 1 **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 
-2 **안윤지** [https://github.com/ayjvv](https://github.com/ayjvv)
+2  **안윤지** [https://github.com/ayjvv](https://github.com/ayjvv)
