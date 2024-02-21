@@ -12,5 +12,5 @@
 * **이혜수** [https://github.com/lee-hyesu](https://github.com/lee-hyesu)
 * **이진선** [https://github.com/jinnyaa](https://github.com/jinnyaa)
 * **김나은** [https://github.com/danchu0214](https://github.com/danchu0214)
-* **최유진**
-[https://github.com/choiyoojin](https://github.com/choiyoojin)
+* **최유진** [https://github.com/choiyoojin](https://github.com/choiyoojin)
+* **정진영** [https://github.com/jinyeong9284](https://github.com/jinyeong9284)
