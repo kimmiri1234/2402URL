@@ -14,3 +14,5 @@
 * **김나은** [https://github.com/danchu0214](https://github.com/danchu0214)
 * **최유진** [https://github.com/choiyoojin](https://github.com/choiyoojin)
 * **정진영** [https://github.com/jinyeong9284](https://github.com/jinyeong9284)
+* **김예진** [https://github.com/kimkimyeye](https://github.com/kimkimyeye)
+
