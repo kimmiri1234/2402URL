@@ -17,3 +17,4 @@
 * **김예진** [https://github.com/kimkimyeye](https://github.com/kimkimyeye)
 * **하은혜** [https://github.com/EunhyeHa](https://github.com/EunhyeHa)
 * **김민경** [https://github.com/mgkim4517](https://github.com/mgkim4517)
+* **송예슬** [https://github.com/syeseu](https://github.com/syeseu)
